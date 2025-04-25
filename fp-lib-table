@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Teensy_Footprint_library")(type "KiCad")(uri "${KIPRJMOD}/Teensy_4.1_libraries/Teensy_4.1_footprint_Library/Teensy_Footprint_library.pretty")(options "")(descr ""))
+)
