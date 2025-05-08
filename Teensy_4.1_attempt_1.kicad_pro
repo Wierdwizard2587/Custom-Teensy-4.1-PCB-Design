@@ -532,7 +532,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "${PROJECTNAME}.csv",
+    "bom_export_filename": "bom_2.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -711,7 +711,7 @@
         }
       ],
       "filter_string": "",
-      "group_symbols": true,
+      "group_symbols": false,
       "include_excluded_from_bom": true,
       "name": "",
       "sort_asc": true,

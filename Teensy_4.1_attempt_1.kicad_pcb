@@ -4297,7 +4297,7 @@
 		(property "Reference" "P1"
 			(at -8.135 -12.13 0)
 			(layer "F.SilkS")
-			(uuid "93de5976-dbdf-4c87-9622-da1cb3dab43b")
+			(uuid "0d9fbe46-467d-4c42-9936-8cc297c5aaa5")
 			(effects
 				(font
 					(size 1.4 1.4)
@@ -4308,7 +4308,7 @@
 		(property "Value" "J1B1211CCD"
 			(at 1.27 11.811 90)
 			(layer "F.Fab")
-			(uuid "ea357f74-974f-4c72-aa9b-8f65957136f1")
+			(uuid "5a3376b3-9b59-4bb7-bab1-71af27ee1d31")
 			(effects
 				(font
 					(size 1.4 1.4)
@@ -4320,7 +4320,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d4347daf-1e41-4082-8a86-8ecaa79df7ad")
+			(uuid "b48fc779-5145-4873-b08b-9d136786dcaa")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4332,7 +4332,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "89b40799-875b-4e2a-860a-4f143ea2d9e3")
+			(uuid "7aa45a6b-87bc-4119-93f5-d65f04095e6c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6216,7 +6216,7 @@
 		(property "Reference" "USB_DFP1"
 			(at 0.01 -0.86 90)
 			(layer "F.SilkS")
-			(uuid "86d59cd9-61e7-41b1-a9d4-49e4a0fa7f53")
+			(uuid "ad122f98-f2a6-4c73-a7b3-5ae0d2006499")
 			(effects
 				(font
 					(size 1 1)
@@ -6227,7 +6227,7 @@
 		(property "Value" "USB_C_Receptacle_USB2.0"
 			(at 0 5.1 90)
 			(layer "F.Fab")
-			(uuid "8307f978-7b4e-4b9e-b7b1-e0774695feb8")
+			(uuid "9953977e-bdd5-45ec-8668-a81acc0c672f")
 			(effects
 				(font
 					(size 1 1)
@@ -6240,7 +6240,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e7ad47ee-bd7a-4171-a040-b2deb51d4955")
+			(uuid "d58da75d-e545-4a0f-a13e-b3b66042c5f9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6253,7 +6253,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f764736d-e67a-49e2-9e5b-c1be009d448b")
+			(uuid "e7d93132-e956-4e76-9c67-79af582a1106")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20515,7 +20515,7 @@
 		(property "Reference" "USB_UFP1"
 			(at -0.02 -1.35 90)
 			(layer "F.SilkS")
-			(uuid "b44338e4-3026-40c2-be28-0afc57d3863e")
+			(uuid "29dc4379-fd6f-49bf-9f0f-e4d451594879")
 			(effects
 				(font
 					(size 1 1)
@@ -20526,7 +20526,7 @@
 		(property "Value" "USB_C_Receptacle_USB2.0"
 			(at 0 5.1 90)
 			(layer "F.Fab")
-			(uuid "da19029a-de8d-4735-ae33-64737ba117e5")
+			(uuid "a655f6dd-e900-4506-852b-193b39d49e00")
 			(effects
 				(font
 					(size 1 1)
@@ -20539,7 +20539,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ffda437b-adc4-4e6e-9297-c2e8ef67774a")
+			(uuid "aa42b52d-59ab-4458-96a4-07e6549e35ae")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20552,7 +20552,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c60b17f4-b3c6-4fad-bf30-8d25ac67f2bf")
+			(uuid "6a799117-f422-4d0b-9f0c-5a87a347e955")
 			(effects
 				(font
 					(size 1.27 1.27)
