@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 9,
     "active_layer_preset": "",
     "auto_track_width": false,
     "hidden_netclasses": [],
@@ -28,28 +28,8 @@
       "vias": true,
       "zones": true
     },
-    "visible_items": [
-      "vias",
-      "footprint_text",
-      "footprint_anchors",
-      "ratsnest",
-      "grid",
-      "footprints_front",
-      "footprints_back",
-      "footprint_values",
-      "footprint_references",
-      "tracks",
-      "drc_errors",
-      "drawing_sheet",
-      "bitmaps",
-      "pads",
-      "zones",
-      "drc_warnings",
-      "locked_item_shadows",
-      "conflict_shadows",
-      "shapes"
-    ],
-    "visible_layers": "ffffffff_ffffffff_ffffd575_fff7f165",
+    "visible_items": [],
+    "visible_layers": "fffd575_fff7f165",
     "zone_display_mode": 0
   },
   "git": {
@@ -59,7 +39,7 @@
   },
   "meta": {
     "filename": "Teensy_4.1_attempt_1.kicad_prl",
-    "version": 5
+    "version": 3
   },
   "net_inspector_panel": {
     "col_hidden": [
