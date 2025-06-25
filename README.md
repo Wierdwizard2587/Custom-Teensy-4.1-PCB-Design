@@ -1,6 +1,6 @@
 ## Overview
 
-This repository covers the design of my custom take on the Teensy 4.1 from PJRC. (Link Teensy 4.1). I took inspiration from (insert inspired board) who incorporated usb-c rather than the intended USB-Micro, but lacked the SD slot, expandable RAM and flash memory, and PHY Ethernet IC and RJ45 Connection Like the original. 
+This repository covers the design of my custom take on the Teensy 4.1 from PJRC. [Teensy 4.1 Site](https://www.pjrc.com/store/teensy41.html). I took inspiration from [jenschrs design](https://github.com/jenschr/Teensy-4.1-example) who incorporated usb-c rather than the intended USB-Micro, but lacked the SD slot, expandable RAM and flash memory, and PHY Ethernet IC and RJ45 Connection Like the original. 
 
 
 <img src="https://github.com/Wierdwizard2587/Custom-Teensy-4.1-PCB-Design/blob/main/Images/IMG_0804.jpg" data-canonical-src="https://github.com/Wierdwizard2587/Custom-Teensy-4.1-PCB-Design/blob/main/Images/IMG_0804.jpg" width="275" height="400"/><img src="https://github.com/Wierdwizard2587/Custom-Teensy-4.1-PCB-Design/blob/main/Images/IMG_0723.jpg" data-canonical-src="https://github.com/Wierdwizard2587/Custom-Teensy-4.1-PCB-Design/blob/main/Images/IMG_0723.jpg" width="275" height="400"/><img src="https://github.com/Wierdwizard2587/Custom-Teensy-4.1-PCB-Design/blob/main/Images/IMG_0728.jpg" data-canonical-src="https://github.com/Wierdwizard2587/Custom-Teensy-4.1-PCB-Design/blob/main/Images/IMG_0728.jpg" width="275" height="400"/>
