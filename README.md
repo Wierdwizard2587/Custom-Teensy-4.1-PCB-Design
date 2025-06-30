@@ -25,7 +25,7 @@ After assembling the first prototype with the supplied stencil from JLCPCB and a
 
 
 
-The Designing and assembly of this board taught myself more trace design concepts such as:
+The Designing and assembly of this board taught me more design and assembly concepts such as:
 
 - differential pairs and length matching design
 - separation of analog and digital traces and components
